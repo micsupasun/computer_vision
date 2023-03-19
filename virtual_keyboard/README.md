@@ -19,13 +19,4 @@ The main loop continuously captures video frames and finds hands in the frames u
 ![VirtualKeyboard](https://github.com/micsupasun/computer_vision/blob/main/virtual_keyboard/image_vr.png)
 
 
-## Contributing
-If you would like to contribute to the code, please follow these guidelines:
-
-1. Fork the repository
-2. Create a new branch for your changes (e.g. feature/my-new-feature)
-3. Commit your changes
-4. Push the branch to your fork
-5. Submit a pull request
-
 

@@ -1,3 +1,4 @@
+# hand_tracking_module
 The code uses the OpenCV and mediapipe libraries to detect hands in video frames captured by a webcam. The script defines a handDetector class that provides an interface to the mediapipe library. The class has several methods:
 
 __init__: This is the class constructor, which is executed when an object of the class is created. It takes several parameters:
@@ -24,7 +25,7 @@ __find_position__: This method takes an image and an integer value as input and 
 
 
 
-In VOLUME TRACKER
+# volume_hand_control.py
 
 
 The code captures video feed from the default camera and applies the hand detection module from HandTrackingModule to detect hands in the frame. It then finds the position of the hand's landmarks, specifically the thumb and the finger, and uses the distance between them to control the volume of the system's audio output.

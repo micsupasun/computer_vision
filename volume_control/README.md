@@ -45,3 +45,7 @@ It then calculates the x,y coordinates of the thumb and finger and the center of
 
 The program also displays the current volume level as a percentage, as a filled rectangle on the video feed, and the current fps. The final frame is displayed on the screen using cv2.imshow(). The program waits for a key press using cv2.waitKey(1) and continues capturing video frames until the key press.
 ![Volume](https://user-images.githubusercontent.com/71158426/214723228-826f4fdd-c53b-4913-b95b-00f90452aa98.png)
+
+Unfortunately, if you don't use window cannot run file volume_hand_control.py because library COMTypes is designed for Windows, not Linux, not mac.
+
+

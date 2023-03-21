@@ -15,7 +15,6 @@ more training data and improve the accuracy of the model which is on the cloud.
 
 This is all the task in group project including:
 ![the diagram in this project](https://github.com/micsupasun/computer_vision/blob/main/assistant_blind/ai_team_diagram.drawio.png)
-
 1. Front End(html, css)
 XML: eXtensible Markup Language, or XML is a markup language created as a standard way to encode data in internet-based 
 applications. Android applications use XML to create layout files. Unlike HTML, XML is case-sensitive, requires each tag to be 
@@ -40,7 +39,7 @@ IoT: The Internet of Things (IoT) describes the network of physical objectsâ€” â
 
 5. Software-as-a-service(RabbitMQ)
 RabbitMQ: RabbitMQ is a message broker that allows clients to connect over different open and standardized protocols such as AMQP, HTTP, STOMP, MQTT, MQTT over WebSocket and WebSocket/Web-Stomp.
-
+![object detection and object distance](https://github.com/micsupasun/computer_vision/blob/main/assistant_blind/case_object.png)
 6. object detection
 Object detection is a computer vision technique that involves identifying and localizing objects within an image or video frame. The goal of object detection is to automatically identify the presence and location of objects of interest within a scene, and to provide information about their shape, size, and orientation. Object detection has many practical applications, including autonomous driving, surveillance, robotics, and image and video search. It enables machines to automatically analyze visual information and make decisions based on that analysis, opening up a wide range of new possibilities for computer vision and AI.
 

@@ -1,17 +1,13 @@
 # computer vision
 
-Computer vision technology is a branch of artificial intelligence (AI) that trains computers. With digital images from cameras and video, and deep learning models, devices can learn to identify and recognize objects and will be able to continue responding to what it "sees."
+This GitHub page works on Computer Vision.
 
+I have completed more than ten projects related to Computer Vision. In addition, I am studying Computer Vision(80 percent) and Natural Language Processing(20 percent) field at The University of Reading.
 
-## manufacturing sector
-In the manufacturing sector, businesses use computer vision to detect defective goods or products in real-time instantly. At the same time, each product is produced from that production line. The computer will process the image or video. Moreover, detect any abnormality or defect in each product. This capability is possible even with tiny objects.
-
-
-## Medical and health services sector
-In medicine, The system takes advantage of computer vision technology to consider images of various examinations, whether MRI, CAT scan, or X-ray images of the patient. To quickly detect any abnormalities. With expertise comparable to that of a physician. In addition, medical professionals use neural network technology to analyze 3D images, such as ultrasound images. To detect abnormalities or changes such as heart rate and others
-
-## insurance sector
-in the insurance sector, various insurance companies use the computer to assess vehicle accident damage with greater accuracy and standardized results than ever before. This technology is helping to reduce insurance fraud and fraud. Moreover, it enhances the efficiency of the overall insurance system.
-
-## security and safety sector
-In working conditions requiring high security, such as banks or casinos. Computer vision technology has been used for the precise identification of each customer. Especially when withdrawing or making large volumes of financial transactions. It is almost impossible for a security guard to view and analyze hundreds of videos in a blink of an eye. The algorithm from the computer vision system can be done without difficulty.
+# Project
+1. [assistant_blind](https://github.com/micsupasun/computer_vision/tree/main/assistant_blind) will help the visually impaired to carry out their daily activities without relying so much on others, enabling a more independent life for them. By implementing a federated learning approach, the distributed system of the edge computing devices will reduce the dependency on heavy computing systems required. Our research also aimed to reduce the latency as it is close to the speed of the network. This can be further enhanced by deploying the model to a larger scale which will help to collect more training data and improve the accuracy of the model which is on the cloud.
+2. [face_recognition](https://github.com/micsupasun/computer_vision/tree/main/face_recognition) is to use a webcam to capture real-time video feed and recognize pre-defined faces within the video frames. The project compares faces detected in the video with a set of known faces that have been pre-loaded into the system, and it labels the recognized faces accordingly.
+3. [object_detection_traffic_light_detection](https://github.com/micsupasun/computer_vision/tree/main/object_detection_traffic_light_detection) is to be able to distinguish objects and traffic light colors. This project can distinguish different objects in the video.
+4. [product_recommendation](https://github.com/micsupasun/computer_vision/tree/main/product_recommendation) is to create a fashion recommendation system using ResNET that provides personalized fashion recommendations to users based on images they upload.
+5. [virtual_keyboard](https://github.com/micsupasun/computer_vision/tree/main/virtual_keyboard) is a short script that performs a specific function or task. Please specify the details of the code, including what it does, how it works, and any necessary setup or dependencies required to run the code.
+6. [volume_control](https://github.com/micsupasun/computer_vision/tree/main/volume_control) uses the OpenCV and mediapipe libraries to detect hands in video frames captured by a webcam. The script defines a handDetector class that provides an interface to the mediapipe library.
